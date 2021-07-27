@@ -11,5 +11,10 @@
    1. Week 1 - Principles of Information Visualization - __Done__
    2. Week 2 - Basic Charting - __Done__
    3. Week 3 - Charting Fundamentals - __Done__
-   4. Week 3 - Applied Visualization - __Done__
-3. 
+   4. Week 4 - Applied Visualization - __Done__
+3. Course 3 - Applied Machine Learning in Python
+   1. Week 1 - Intro to SciKit Learn - __Done__
+   2. Week 2 - Supervised ML Part 1 - __Done__
+   3. Week 3 - Evaluation - __Done__
+   4. Week 4 - Supervised ML Part 2 - __Done__
+
